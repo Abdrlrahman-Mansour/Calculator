@@ -1,1 +1,3 @@
 # Calculator
+
+AVR Simple Calculator is a simple calculator program for AVR microcontrollers written in C. It supports addition, subtraction, multiplication, and division operations and has a user-friendly interface with a 16x2 LCD display and a keypad for input. It is designed to work with AVR microcontrollers such as the Pic18f4620.
